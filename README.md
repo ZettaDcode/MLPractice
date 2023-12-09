@@ -1,2 +1,2 @@
 # MLPractice
-Repositorio que presenta algoritmos de machiner learning empleados
+Repositorio que presenta algoritmos de machine learning empleados
